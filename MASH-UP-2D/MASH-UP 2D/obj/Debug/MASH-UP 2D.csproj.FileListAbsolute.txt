@@ -1,0 +1,32 @@
+C:\Users\Gerardo\Desktop\MASH-UP-2D-master\MASH-UP-2D-master\MASH-UP 2D\bin\Debug\MASH-UP 2D.exe.config
+C:\Users\Gerardo\Desktop\MASH-UP-2D-master\MASH-UP-2D-master\MASH-UP 2D\bin\Debug\MASH-UP 2D.exe
+C:\Users\Gerardo\Desktop\MASH-UP-2D-master\MASH-UP-2D-master\MASH-UP 2D\bin\Debug\MASH-UP 2D.pdb
+C:\Users\Gerardo\Desktop\MASH-UP-2D-master\MASH-UP-2D-master\MASH-UP 2D\obj\Debug\MASH-UP 2D.csproj.AssemblyReference.cache
+C:\Users\Gerardo\Desktop\MASH-UP-2D-master\MASH-UP-2D-master\MASH-UP 2D\obj\Debug\MASH_UP_2D.Properties.Resources.resources
+C:\Users\Gerardo\Desktop\MASH-UP-2D-master\MASH-UP-2D-master\MASH-UP 2D\obj\Debug\MASH-UP 2D.csproj.GenerateResource.cache
+C:\Users\Gerardo\Desktop\MASH-UP-2D-master\MASH-UP-2D-master\MASH-UP 2D\obj\Debug\MASH-UP 2D.csproj.CoreCompileInputs.cache
+C:\Users\Gerardo\Desktop\MASH-UP-2D-master\MASH-UP-2D-master\MASH-UP 2D\obj\Debug\MASH-UP 2D.exe
+C:\Users\Gerardo\Desktop\MASH-UP-2D-master\MASH-UP-2D-master\MASH-UP 2D\obj\Debug\MASH-UP 2D.pdb
+C:\Users\Gerardo\Desktop\MASH-UP-2D-master\MASH-UP-2D-master\MASH-UP 2D\obj\Debug\MASH_UP_2D.FormAnimacionDeFiguras.resources
+D:\hecto\Documents\Universidad\8th Semester\Graficacion\MASH-UP-2D-master\MASH-UP-2D-master\MASH-UP 2D\bin\Debug\MASH-UP 2D.exe.config
+D:\hecto\Documents\Universidad\8th Semester\Graficacion\MASH-UP-2D-master\MASH-UP-2D-master\MASH-UP 2D\bin\Debug\MASH-UP 2D.exe
+D:\hecto\Documents\Universidad\8th Semester\Graficacion\MASH-UP-2D-master\MASH-UP-2D-master\MASH-UP 2D\bin\Debug\MASH-UP 2D.pdb
+D:\hecto\Documents\Universidad\8th Semester\Graficacion\MASH-UP-2D-master\MASH-UP-2D-master\MASH-UP 2D\obj\Debug\MASH-UP 2D.csproj.AssemblyReference.cache
+D:\hecto\Documents\Universidad\8th Semester\Graficacion\MASH-UP-2D-master\MASH-UP-2D-master\MASH-UP 2D\obj\Debug\MASH-UP 2D.csproj.SuggestedBindingRedirects.cache
+D:\hecto\Documents\Universidad\8th Semester\Graficacion\MASH-UP-2D-master\MASH-UP-2D-master\MASH-UP 2D\obj\Debug\MASH_UP_2D.FormAnimacionDeFiguras.resources
+D:\hecto\Documents\Universidad\8th Semester\Graficacion\MASH-UP-2D-master\MASH-UP-2D-master\MASH-UP 2D\obj\Debug\MASH_UP_2D.Properties.Resources.resources
+D:\hecto\Documents\Universidad\8th Semester\Graficacion\MASH-UP-2D-master\MASH-UP-2D-master\MASH-UP 2D\obj\Debug\MASH-UP 2D.csproj.GenerateResource.cache
+D:\hecto\Documents\Universidad\8th Semester\Graficacion\MASH-UP-2D-master\MASH-UP-2D-master\MASH-UP 2D\obj\Debug\MASH-UP 2D.csproj.CoreCompileInputs.cache
+D:\hecto\Documents\Universidad\8th Semester\Graficacion\MASH-UP-2D-master\MASH-UP-2D-master\MASH-UP 2D\obj\Debug\MASH-UP 2D.exe
+D:\hecto\Documents\Universidad\8th Semester\Graficacion\MASH-UP-2D-master\MASH-UP-2D-master\MASH-UP 2D\obj\Debug\MASH-UP 2D.pdb
+\\Mac\Home\Desktop\MASH-UP-2D-master\MASH-UP 2D\bin\Debug\MASH-UP 2D.exe.config
+\\Mac\Home\Desktop\MASH-UP-2D-master\MASH-UP 2D\bin\Debug\MASH-UP 2D.exe
+\\Mac\Home\Desktop\MASH-UP-2D-master\MASH-UP 2D\bin\Debug\MASH-UP 2D.pdb
+\\Mac\Home\Desktop\MASH-UP-2D-master\MASH-UP 2D\obj\Debug\MASH-UP 2D.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\MASH-UP-2D-master\MASH-UP 2D\obj\Debug\MASH-UP 2D.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Desktop\MASH-UP-2D-master\MASH-UP 2D\obj\Debug\MASH_UP_2D.Properties.Resources.resources
+\\Mac\Home\Desktop\MASH-UP-2D-master\MASH-UP 2D\obj\Debug\MASH-UP 2D.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\MASH-UP-2D-master\MASH-UP 2D\obj\Debug\MASH-UP 2D.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\MASH-UP-2D-master\MASH-UP 2D\obj\Debug\MASH-UP 2D.exe
+\\Mac\Home\Desktop\MASH-UP-2D-master\MASH-UP 2D\obj\Debug\MASH-UP 2D.pdb
+\\Mac\Home\Desktop\MASH-UP-2D-master\MASH-UP 2D\obj\Debug\MASH_UP_2D.MashUp.resources
